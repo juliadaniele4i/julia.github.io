@@ -2,9 +2,6 @@ theme: jekyll-theme-minimal
 title: Julia's homepage
 description: Bookmark this to keep an eye on my project updates!
 
-readme_index:
-  with_frontmatter: true
-
 plugins:
   - jemoji
   - jekyll-avatar
